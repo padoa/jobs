@@ -9,6 +9,6 @@ Nous modernisons la santé au travail en nous appuyant sur les nouvelles technol
 Nous suivons déjà une centaine de milliers de salariés, tout aussi bien dans des grands groupes que dans des petites structures.
 
 **Contact: jobs@padoa.fr**
-## CDI – Software Engineer / Fullstack Web Developer – JS(fullstack) , Python
-## Stage - Software Engineer / Fullstack Web Developer (_1500€/mois en fin d’étude, 1200€/mois sinon_)
-## Alternance - Software Engineer / Fullstack Web Developer
+## [CDI – Software Engineer / Fullstack Web Developer – JS(fullstack) , Python](https://github.com/padoa/jobs/blob/master/Web%20Developer%20-%20JS%20fullstack-%20Python.pdf)
+## [Stage - Software Engineer / Fullstack Web Developer - _1500€/mois en fin d’étude, 1200€/mois sinon_](https://github.com/padoa/jobs/blob/master/Web%20Developer%20-%20JS%20fullstack-%20Python.pdf)
+## [Alternance - Software Engineer / Fullstack Web Developer](https://github.com/padoa/jobs/blob/master/Web%20Developer%20-%20JS%20fullstack-%20Python.pdf)
